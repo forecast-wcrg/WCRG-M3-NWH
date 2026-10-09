@@ -1,0 +1,26 @@
+{
+  "variable": "DAILY_RAIN",
+  "colorbar_min": 0.001,
+  "colorbar_max": 38.64280319213867,
+  "unit": "mm",
+  "percentiles_used": "2-99.85%",
+  "actual_data_min": 0.0,
+  "actual_data_max": 129.55694580078125,
+  "ticks": [
+    0.5,
+    1.0,
+    1.5,
+    2.0,
+    9.0
+  ],
+  "use_log_scale": true,
+  "log_linear_threshold": 2.0,
+  "tick_labels": [
+    "0.5mm",
+    "1.0mm",
+    "1.5mm",
+    "2.0mm",
+    "9.0mm"
+  ],
+  "resolution_m": 1500
+}

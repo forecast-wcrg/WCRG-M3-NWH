@@ -1,0 +1,28 @@
+{
+  "variable": "WIND",
+  "colorbar_min": 0.0,
+  "colorbar_max": 10.0,
+  "unit": "m/s",
+  "percentiles_used": "2-98%",
+  "actual_data_min": 0.00017377208860125393,
+  "actual_data_max": 22.80002784729004,
+  "ticks": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    10
+  ],
+  "use_log_scale": false,
+  "log_linear_threshold": null,
+  "tick_labels": [
+    "0m/s",
+    "2m/s",
+    "4m/s",
+    "6m/s",
+    "8m/s",
+    "10m/s"
+  ],
+  "resolution_m": 1500
+}
